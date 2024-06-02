@@ -15,7 +15,7 @@
 About Project
 ===============
 
-This is a project that is in the development phase and we are trying hard to deliver something stable to everyone in the community.
+This is a project I'm committed to helping the customization community for the S20 FE. I hope you like it! 
 ```
 Only for Snapdragon versions 
 ```
