@@ -5,7 +5,7 @@
 <strong><i>A Custom ROM based on Lineage OS.</i></strong>
 <br>
 </a>
-<a href="https://xdaforums.com/m/neroki.12679945/">
+<a href="https://xdaforums.com/t/rom-14-unofficial-encryption-snapdragon-project-sakura-for-samsung-galaxy-s20-fe-4g-5g.4675713/">
 <img src="https://img.shields.io/badge/XDA-Thread-pink?style=for-the-badge">
 </a>
 <a href="https://t.me/nerokireleases">
